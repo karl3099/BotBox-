@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=true
+Icon=/usr/share/icons/Humanity/categories/48/applications-debugging.svg
+Icon[en_US]=/usr/share/icons/Adwaita/48x48/actions/insert-link-symbolic.symbolic.png
+Name[en_US]=RUN_Maintenance
+Exec=python3 -i /home/greenbean/Documents/BotBox_5xI_02_01_2020/GreenBean/ModuleMaintenanceGUI.py
+Name=RUN_ModuleSelect

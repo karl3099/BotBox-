@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=true
+Icon=/home/greenbean/Documents/GUI/BotBox_Script/BotBox_5xI_02_01_2020/GreenBean/GBBC_Icon.png
+Icon[en_US]=/home/greenbean/Documents/GUI/BotBox_Script/BotBox_5xI_02_01_2020/GreenBean/GBBC_Icon.png
+Name[en_US]=RUN_BotBox
+Exec=python3.6 -i /home/greenbean/Documents/GUI/BotBox_Script/BotBox_5xI_02_01_2020/GreenBean/BotBoxGUI.py
+Name=RUN_BotBox
